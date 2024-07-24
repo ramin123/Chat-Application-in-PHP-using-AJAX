@@ -1,0 +1,169 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif, arial;
+    font-size: 14px;
+    background: #f5f5f5; /* Soft gray background */
+    overflow: hidden;
+}
+
+
+* {
+    font-family: 'Open Sans', sans-serif, arial;
+    font-size: 14px;
+    color: #555;
+}
+
+.main {
+    max-width: 1024px;
+    width: 100%;
+    margin: auto;
+}
+
+.header {
+    background: #219638; /*  header */
+    color: #fff;
+    padding: 10px 0;
+}
+
+.header h1 {
+    max-width: 1024px;
+    width: 100%;
+    margin: 0 auto;
+    font-size: 20px;
+    color: #fff;
+    text-align: left;
+    font-weight: 300;
+}
+
+.userscreen {
+    margin: auto;
+    text-align: center;
+    margin-top: 24%;
+}
+
+.input-user {
+    padding: 10px;
+    border: solid 2px #c9c9c9;
+    transition: border 0.3s;
+    width: 250px;
+}
+
+.input-user:focus,
+.input-user.focus {
+    border: solid 2px #28a745; /* Vibrant green on focus */
+}
+
+.btn {
+    background-color: #28a745; /* Vibrant green button */
+    border: 1px solid #28a745;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 300;
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+.btn:hover {
+    background-color: #219638; /* Slightly darker green on hover */
+    border-color: #219638;
+}
+
+.btn:active {
+    position: relative;
+    top: 1px;
+}
+
+.btn-user {
+    padding: 9px 30px;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+#result {
+    max-width: 1024px;
+    width: 100%;
+    padding: 10px;
+    background: #fff; /* White background */
+    max-height: 80%;
+    overflow-y: auto;
+}
+
+.chatcontrols {
+    position: fixed;
+    bottom: 0;
+    width: 90%;
+    background: #f5f5f5; /* Soft gray background */
+    padding: 10px;
+    border-top: 1px solid #ddd;
+}
+
+.chatcontrols form {
+    margin: auto;
+    display: flex;
+}
+
+#chatbox {
+    background: #fff; /* White background */
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    color: #6C6C6C;
+    height: 60px;
+    padding: 10px;
+    width: 65.5%;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+#chatbox:focus {
+    border-color: #28a745; /* Vibrant green border on focus */
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.3) inset;
+    color: #A6A6A6;
+}
+
+.btn-send,
+.btn-clear {
+    font-size: 20px;
+    font-weight: 300;
+    margin-left: 10px;
+}
+
+.btn-send {
+    background-color: #28a745; /* Vibrant green send button */
+    color: #fff;
+    padding: 15px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.btn-send:hover {
+    background-color: #219638; /* Slightly darker green on hover */
+}
+
+.btn-clear {
+    background-color: #f5f5f5; /* Soft gray clear button */
+    color: #6C6C6C;
+    padding: 15px 25px;
+    border: 1px solid #ddd;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.btn-clear:hover {
+    background-color: #e8e8e8; /* Lighter gray on hover */
+}
+
+.logout {
+    float: right;
+    color: white; /* Deep blue logout link */
+    text-decoration: none;
+    font-size: 15px;
+    transition: color 0.3s;
+}
+
+.logout:hover {
+    font-size: 20px;
+
+}
