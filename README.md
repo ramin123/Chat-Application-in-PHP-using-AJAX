@@ -33,3 +33,6 @@ Welcome to the Chat Application in PHP using AJAX with a file transfer system! T
 - Click on the file upload button to share files with other chat participants.
 
 - Click the logout link to end your session and exit the chat.
+
+
+![image](https://github.com/user-attachments/assets/9f18de70-36d1-4852-9679-124bd9e9d745)
