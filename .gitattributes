@@ -1,0 +1,14 @@
+*.php linguist-detectable=true
+*.html linguist-detectable=true
+*.css linguist-detectable=true
+*.js linguist-detectable=true
+*.Ajax linguist-detectable=true
+
+
+*.css diff=css
+*.html diff=html
+*.md diff=markdown
+*.php diff=php
+
+/.github export-ignore
+CHANGELOG.md export-ignore
