@@ -13,15 +13,15 @@ Welcome to the Chat Application in PHP using AJAX with a file transfer system! T
 - AJAX-Powered: Smooth and dynamic updates to the chat without needing to refresh the page.
 
 ## Getting Started
-- 1 - To get the Chat Application up and running on your local machine for development and testing purposes, follow these steps:
+To get the Chat Application up and running on your local machine for development and testing purposes, follow these steps:
 
-- 2 - Clone the repository or download the source code from GitHub.
+- 1 - Clone the repository or download the source code from GitHub.
 
-- 3 - Ensure you have a PHP server environment set up (e.g., XAMPP, WAMP, MAMP, or similar).
+- 2 - Ensure you have a PHP server environment set up (e.g., XAMPP, WAMP, MAMP, or similar).
 
-- 4 - Upload the source code to your server or place it in your local server's directory.
+- 3 - Upload the source code to your server or place it in your local server's directory.
 
-- 5 - Navigate to the application's URL in your web browser to start chatting.
+- 4 - Navigate to the application's URL in your web browser to start chatting.
 
 ## Usage
 - Open the chat application in your web browser.
@@ -50,15 +50,15 @@ Welcome to the Chat Application in PHP using AJAX with a file transfer system! T
 - Работает на AJAX: Плавные и динамические обновления чата без необходимости обновлять страницу.
 
 ## Начало работы
-1 - Чтобы запустить приложение для чата на вашем локальном компьютере для разработки и тестирования, следуйте этим шагам:
+Чтобы запустить приложение для чата на вашем локальном компьютере для разработки и тестирования, следуйте этим шагам:
 
-2 - Клонируйте репозиторий или скачайте исходный код с GitHub.
+1 - Клонируйте репозиторий или скачайте исходный код с GitHub.
 
-3 - Убедитесь, что у вас установлена среда сервера PHP (например, XAMPP, WAMP, MAMP или подобная).
+2 - Убедитесь, что у вас установлена среда сервера PHP (например, XAMPP, WAMP, MAMP или подобная).
 
-4 - Загрузите исходный код на ваш сервер или поместите его в директорию вашего локального сервера.
+3 - Загрузите исходный код на ваш сервер или поместите его в директорию вашего локального сервера.
 
-5 - Перейдите по URL приложения в вашем веб-браузере, чтобы начать чат.
+4 - Перейдите по URL приложения в вашем веб-браузере, чтобы начать чат.
 
 ## Использование
 -- Откройте приложение для чата в вашем веб-браузере.
